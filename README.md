@@ -1,4 +1,8 @@
 # MovieRecommendation
+
+Important! : MovieRecommenderAndScorePredictor notebook is the one you should be looking for. Thefirsttry notebook is my first ever attempt on a kaggle dataset which failed miserably (hence the negative score in the end). The MoviesRecommender notebook is based on a kernel on kaggle more about which information is down below !
+
+
 1. The repository is made for generating movie recommendations using python.
 2. The work has been done solely on python on jupyter notebook.
 
